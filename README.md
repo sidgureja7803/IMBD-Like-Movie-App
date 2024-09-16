@@ -46,9 +46,6 @@ If you'd like to contribute to MovieMania, feel free to submit a pull request! W
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Feedback
-
-I'd love to hear your feedback on MovieMania! If you have any suggestions, feature requests, or bug reports, please open an issue on GitHub or reach out to us via email.
 
 ---
 
